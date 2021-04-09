@@ -10,4 +10,4 @@ There is no need to worry because I will formatt the code the same way you would
 
 Remember to subscribe to my youtube channel ==> https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_w
 
-Also subscribe to the IT TECH PRO which is one of my other youtube channels where I make some coding realted videos ==> https://www.youtube.com/channel/UCQLskloPaqKgmLKet7hxQmw
+Also subscribe to the IT TECH PRO which is one of my other youtube channels where I make some coding related videos ==> https://www.youtube.com/channel/UCQLskloPaqKgmLKet7hxQmw
