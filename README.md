@@ -9,7 +9,9 @@ There is no need to worry because I will formatt the code the same way you would
 
 Look into rgb color code.png for all of the color codes but don't add the RGB part. 
 
-I'm still writing all the RGB color codes properly in main.py so it might take some time and I'm going to fromatt it like in the png file but will be in a proper formatt like it would be in a python project so it will be like : color(number) = (number code)
+ I'm going to formatt the main.py it like in the png file but will be in a proper formatt like it would be in a python project so it will be like : color(number) = (number code)
+
+If you want to see how the color looks like then look in the png file and decide nothing is confusing because I have put them with the color number
 
 Remember to subscribe to my youtube channel ==> https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_w
 
