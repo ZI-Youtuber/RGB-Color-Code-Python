@@ -13,6 +13,4 @@ Look into rgb color code.png for all of the color codes but don't add the RGB pa
 
 If you want to see how the color looks like then look in the png file and decide nothing is confusing because I have put them with the color number
 
-Remember to subscribe to my youtube channel ==> https://www.youtube.com/channel/UC6srZpri3G-WsLy-lgO_C_w
-
-Also subscribe to the IT TECH PRO which is one of my other youtube channels where I make some coding related videos ==> https://www.youtube.com/channel/UCQLskloPaqKgmLKet7hxQmw
+Remember to Subscribe to the my youtube channel Codeopedia - The Epic World of Programming ==> https://www.youtube.com/channel/UC0KZbVgZfi87fdSMUcfJPtQ
